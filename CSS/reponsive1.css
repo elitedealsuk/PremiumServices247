@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 479px) {
+#org-header {
+	width: 100%;
+	float: left;
+}
+.top-header {
+	width: 100%;
+}
+#org-logo {
+	width: 100%;
+	text-align: center;
+	margin: 15px 0 15px;
+	padding: 0;
+	position: relative;
+	background: none;
+}
+#org-logo img {
+	max-width: 100%;
+}
+.org-right {
+	display: none;
+}
+.top-holder {
+	display: none;
+}
+.promo-banner {
+	display: none;
+}
+.menu-holder {
+	display: none;
+}
+.welcome {
+	display: none;
+}
+.tag-wrapper {
+	display: none;
+}
+#org-menu {
+	display: none;
+}
+.org-content {
+	width: 100%;
+	float: left;
+	margin: 0px 0 0 0;
+	padding: 0px 0px;
+}
+.desc-rd {
+	width: 96%;
+	padding: 2%;
+	border: 0 none;
+}
+.listing-tab {
+	display: none;
+}
+.mobile-tab {
+	display: block;
+}
+.org-scrolleo-box {
+	display: none;
+}
+.scrolleo-title {
+	display: none;
+}
+.org-wrapcens {
+	display: table;
+	margin: 0 auto;
+	padding: 0 !important;
+	width: 100%;
+}
+#org-footer {
+	width: 100%;
+	display: none;
+}
+.logo-box {
+	display: none;
+}
+.copy-footer {
+	width: 100%;
+}
+.footer-div2 {
+	display: none;
+}
+.footer-logo {
+	display: none;
+}
+.footer-div1 {
+	width: 100%;
+}
+#org-copy {
+	text-align: center;
+	margin: 25px 0 0;
+	width: 100% !important;
+}
+#org-designer {
+	text-align: center;
+	margin: 5px 0 25px 0;
+	width: 100% !important;
+}
+.footer-copy {
+	display: table;
+	float: none;
+	margin: 0 auto;
+}
+/*-----mobile tab html start------*/
+
+/*-----mobile tab html END------*/
+#gallery {
+	width: 100%;
+	padding: 0 0 20px;
+	margin: 0;
+	border: 0 none;
+}
+#gallery #slides {
+	width: 100%;
+}
+#gallery #slides div {
+	width: auto;
+}
+#gallery #fullsize {
+	height: 250px;
+	margin: 5% 5%;
+	padding: 0;
+    width: 90.5%;
+	border: 0px solid #7cc120;
+	}
+#gallery #fullsize div {
+	height: 250px;
+}
+#gallery #fullsize div span {
+	display: table-cell;
+	height: 250px;
+	margin: 0 auto;
+	text-align: center;
+	width: 360px;
+}
+#gallery #fullsize div img {
+	height: auto;
+	max-height: 250px;
+}
+#gallery #slides div ul li {
+	margin: 1px;
+}
+#gallery #slides div ul li:last-child {
+	margin: 1px;
+}
+#gallery #slides div ul li a {
+	width: 40px;
+	height: 40px;
+}
+#gallery #slides div ul li a img {
+	display: table;
+	margin: 0 auto;
+	max-height: 40px;
+	width: 40px;
+}
+.accordion-item-bd > img {
+}
+}
